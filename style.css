@@ -1,0 +1,84 @@
+header{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight:20.5 px;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 1px;
+    
+}
+
+
+body{ background-image: url(Styles/9070018.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-form{
+    max-width: 500px;
+    margin: 2rem auto;
+padding: auto;
+background: darkviolet;
+box-shadow: 0 0 10px;
+border-radius: 5px;
+}
+h2{
+    max-width: 1000;
+    margin: auto;
+padding: auto;
+background: white;
+box-shadow: 0 0 10px;
+border-radius: 5px;
+}
+.contact{
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+padding:  auto;
+background: white;
+box-shadow: 0 0 10px;
+border-radius: 5px;
+}
+h1{
+    text-align: center;
+    color: darkviolet;
+}
+h5{
+    margin:  auto;
+    padding: auto;
+    background: white;
+    box-shadow: 0 0 10px;
+    border-radius: 5px;
+    max-width: 300px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+    color: aliceblue;
+    display: grid;
+    place-items: center;
+
+}
+h6{
+    
+    font-size: larger;
+    margin: auto;
+padding:  auto;
+background: white;
+box-shadow: 0 0 10px;
+border-radius: 5px;
+}
+
+.x{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.info{
+    display: grid;
+    place-items: center;
+
+}
+
